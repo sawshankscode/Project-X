@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/menu_courses"
+      android:icon="@drawable/ic_baseline_video_library_24"
+      android:title="Courses"/>
+  <item android:id="@+id/menu_invite"
+      android:icon="@drawable/ic_baseline_card_giftcard_24"
+      android:title="Invite Friends"/>
+  <item android:id="@+id/menu_contact"
+      android:icon="@drawable/ic_baseline_contact_support_24"
+      android:title="Contact Us"/>
+</menu>
